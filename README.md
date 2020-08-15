@@ -1,4 +1,5 @@
 <img src="https://github.com/gemmakbarlow/gemmakbarlow/blob/master/gemma-hi-banner.png?raw=true " alt="Gemma's Bitmoji. Image of a woman smiling." /></td>
+
 <b>Hi. I'm Gemma, an iOS engineer based in NYC. </b>
 
 <ul>
