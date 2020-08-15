@@ -5,5 +5,6 @@
 
 - 😄 Pronouns: She / Her
 - 💬 Ask me about iOS (Swift strongly preferred). 
+- 🚴 Currently a Tech Lead at Peloton
+- More info at <a href="https://www.gemmakbarlow.com">gemmakbarlow.com</a>
 
-<a href="https://www.gemmakbarlow.com">gemmakbarlow.com</a>
